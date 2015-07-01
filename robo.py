@@ -10,16 +10,32 @@ class robot:
 		self.grid_height = 4
 		self.grid_breadth  = 4
 
+	def modify(self, val):
+		if val == 'w':
+			if self.grid_height < max_height:
+				self.grid_height += 1
+		if val == 's':
+			if self.grid_height > 0:
+				self.grid_height -= 1
+		if val == 'd':
+			if self.grid_breadth < max_breadth:
+				self.grid_breadth += 1
+		if val == 'a':
+			if self.grid_breadth > 0:
+				self.grid_breadth -= 1
+		self.printing()
+
+
 	def printing(self):
-		print (max_height)
-		print (max_breadth)
 		print (self.grid_height)
+		print (self.grid_breadth)
+		print (" ")
 
 
 
 r = robot()
-
 r.printing()
+
 
 class user:
 
@@ -30,7 +46,13 @@ class user:
 	def user_input(self):
 		while self.inputss != 'q':
 			self.inputss  = input ("Enter direction : ")
-			print(self.inputss)
+			#print(self.inputss)
+			r.modify(self.inputss)
+
+
+
 
 
 u = user()
+
+

@@ -1,3 +1,7 @@
+
+This is a git versioned file.
+
+
 test file
 djfjsd
 sadas'

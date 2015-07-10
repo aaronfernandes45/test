@@ -1,1 +1,85 @@
+
+This is a git versioned file.
+second save for this file
+third save for this file. It should push after this commit.
+
 test file
+<<<<<<< HEAD
+rohit1
+=======
+djfjsd
+sadas'
+asf
+dfsd
+
+cacxdaskjhsdsfajh
+asabshsd
+sadskdjaszxdzcfdsaf
+saflkjsafk
+asdagsdfs
+ffdsgfsv
+sadvas
+dfsdsfadsafassvdscfds
+sfdcfcds
+adfdasf
+fsafdsfaddfsasdfsdadsdkljdsafasfdasxascadxsdxsdcdddaxsdxcsadsaldk
+abc daras
+xyzdsfsdfrdasdas
+dsfadsdfadfa
+sdxadsxasdxsdxdfsfsafdascracfaedasfaasfcdsdfascxasdc
+jgvjvdafadd
+dsfcsdfcadcasd
+dsfadcfvdsvdfvsfsdcdafadasds dscadxwadsc
+d
+gfdfhg
+sddfagdsgdsafdasdsfsdsfdascds
+sfdfgsdffsajdjfhadxcaxs
+ssdfssfsd
+affsfdsf
+dcscsadassaxaxadsxsaxa
+sagdvhsam
+ssssxa
+sfafdsfds
+sahdjasa
+saghdavsd
+asvgdhsa
+sarveshssaasdaasdafdasadsf
+kasdfdassdsacdc
+iggfdhdjsajhdkdfwghfdgvdsv
+sdfafs
+asdsadsaasdas
+asfhhhgsaddsafas
+shantanuasdklkjh
+dasfddacxdxwdxadaasxsx
+aaron
+lalalallalaaadsad
+assdgfsdfad
+sadgvsadabsadhbasd
+adfaasadsasdasdsasdjisafdi
+tigersafdsfaadfsafadas
+fadfa
+safadsfasdf
+what
+are
+you
+doing
+>>>>>>> d733571c3818f30e922bd3ea2116b8d892206cb1
+rohit2
+rohit3
+rohit4
+rohit1
+rohit2
+rohit3
+rohit4
+
+aaa
+aaa
+aaa
+
+aaa
+aaa
+aaa
+
+bbb
+vvv
+cccc

@@ -4,6 +4,9 @@ second save for this file
 third save for this file. It should push after this commit.
 
 test file
+<<<<<<< HEAD
+rohit1
+=======
 djfjsd
 sadas'
 asf
@@ -60,3 +63,29 @@ what
 are
 you
 doing
+>>>>>>> d733571c3818f30e922bd3ea2116b8d892206cb1
+rohit2
+rohit3
+rohit4
+rohit1
+rohit2
+rohit3
+rohit4
+
+aaa
+aaa
+aaa
+
+aaa
+aaa
+aaa
+
+bbb
+vvv
+cccc
+
+rohit1
+rohit2
+
+rohit1
+rhoit2
